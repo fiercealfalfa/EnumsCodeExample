@@ -8,7 +8,7 @@ namespace EnumExample
 {
     class FirstEnumExample
     {
-        enum Days { Sun, Mon = 5, tue, Wed, thu, Fri, Sat };
+        enum Days { Sun, Mon, tue, Wed, thu, Fri, Sat };
 
         public void showExample()
         {
